@@ -29,8 +29,8 @@ pygame.display.set_caption('Avoid The Them')
 clock = pygame.time.Clock()
 
 # Importing The Car Image
-carImg = pygame.image.load('car.png')
-carIcon = pygame.image.load('carIcon.png')
+carImg = pygame.image.load('Car.png')
+carIcon = pygame.image.load('CarIcon.png')
 
 # Screen Icon
 pygame.display.set_icon(carIcon)
